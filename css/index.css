@@ -292,6 +292,7 @@ footer nav a {
 	border-bottom: 1px dashed black;
 	padding-bottom: 15px;
 	align-content: center;
+	margin: 15px;
 }
 button {
 	border: 2px solid black;
