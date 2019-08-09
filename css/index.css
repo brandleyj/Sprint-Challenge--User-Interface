@@ -115,6 +115,10 @@ header nav a {
 	text-decoration: none;
 	color: black;
 }
+header nav a:hover {
+	background: black;
+	color: white;
+}
 .jumboImage {
 	margin-top: 40px;
 	margin-bottom: 20px;
